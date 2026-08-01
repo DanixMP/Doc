@@ -1,0 +1,3476 @@
+{
+  "source": "467_26536540990502.pdf",
+  "page_count": 32,
+  "metadata": {
+    "format": "PDF 1.7",
+    "title": "Full page photo",
+    "author": "Asus",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "Microsoft: Print To PDF",
+    "creationDate": "D:20231127145135+03'30'",
+    "modDate": "D:20231127145135+03'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pages": [
+    {
+      "page": 1,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 4,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 196975,
+          "ext": "jpeg",
+          "file": "page_01_img_01_xref4.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 5,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 265101,
+          "ext": "jpeg",
+          "file": "page_01_img_02_xref5.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 6,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 224704,
+          "ext": "jpeg",
+          "file": "page_01_img_03_xref6.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 7,
+          "width": 2680,
+          "height": 355,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 87489,
+          "ext": "jpeg",
+          "file": "page_01_img_04_xref7.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_01.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 2409159
+      },
+      "native_text_file": "page_01_native.txt",
+      "image_rects": [
+        {
+          "xref": 4,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 5,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 6,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 7,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 11,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 144439,
+          "ext": "jpeg",
+          "file": "page_02_img_01_xref11.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 12,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 188513,
+          "ext": "jpeg",
+          "file": "page_02_img_02_xref12.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 13,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 190193,
+          "ext": "jpeg",
+          "file": "page_02_img_03_xref13.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 14,
+          "width": 2681,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 137869,
+          "ext": "jpeg",
+          "file": "page_02_img_04_xref14.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_02.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 2503248
+      },
+      "native_text_file": "page_02_native.txt",
+      "image_rects": [
+        {
+          "xref": 11,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 12,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 13,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 14,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 18,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 129937,
+          "ext": "jpeg",
+          "file": "page_03_img_01_xref18.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 19,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 142314,
+          "ext": "jpeg",
+          "file": "page_03_img_02_xref19.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 20,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 67639,
+          "ext": "jpeg",
+          "file": "page_03_img_03_xref20.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 21,
+          "width": 2681,
+          "height": 355,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 24904,
+          "ext": "jpeg",
+          "file": "page_03_img_04_xref21.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_03.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 728724
+      },
+      "native_text_file": "page_03_native.txt",
+      "image_rects": [
+        {
+          "xref": 18,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 19,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 20,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 21,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 25,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 125353,
+          "ext": "jpeg",
+          "file": "page_04_img_01_xref25.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 26,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 167011,
+          "ext": "jpeg",
+          "file": "page_04_img_02_xref26.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 27,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 143870,
+          "ext": "jpeg",
+          "file": "page_04_img_03_xref27.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 28,
+          "width": 2680,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 71556,
+          "ext": "jpeg",
+          "file": "page_04_img_04_xref28.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_04.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1043160
+      },
+      "native_text_file": "page_04_native.txt",
+      "image_rects": [
+        {
+          "xref": 25,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 26,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 27,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 28,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 32,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 163756,
+          "ext": "jpeg",
+          "file": "page_05_img_01_xref32.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 33,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 180224,
+          "ext": "jpeg",
+          "file": "page_05_img_02_xref33.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 34,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 174387,
+          "ext": "jpeg",
+          "file": "page_05_img_03_xref34.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 35,
+          "width": 2680,
+          "height": 346,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 51057,
+          "ext": "jpeg",
+          "file": "page_05_img_04_xref35.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_05.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 937146
+      },
+      "native_text_file": "page_05_native.txt",
+      "image_rects": [
+        {
+          "xref": 32,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            161.16000366210938
+          ]
+        },
+        {
+          "xref": 33,
+          "rect": [
+            0.0,
+            161.16000366210938,
+            841.800048828125,
+            322.32000732421875
+          ]
+        },
+        {
+          "xref": 34,
+          "rect": [
+            0.0,
+            322.32000732421875,
+            841.800048828125,
+            483.4800109863281
+          ]
+        },
+        {
+          "xref": 35,
+          "rect": [
+            0.0,
+            483.4800109863281,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 39,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 120268,
+          "ext": "jpeg",
+          "file": "page_06_img_01_xref39.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 40,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 203340,
+          "ext": "jpeg",
+          "file": "page_06_img_02_xref40.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 41,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 139877,
+          "ext": "jpeg",
+          "file": "page_06_img_03_xref41.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 42,
+          "width": 2684,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 88230,
+          "ext": "jpeg",
+          "file": "page_06_img_04_xref42.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_06.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1155416
+      },
+      "native_text_file": "page_06_native.txt",
+      "image_rects": [
+        {
+          "xref": 39,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 40,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 41,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 42,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 46,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 157740,
+          "ext": "jpeg",
+          "file": "page_07_img_01_xref46.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 47,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 136781,
+          "ext": "jpeg",
+          "file": "page_07_img_02_xref47.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 48,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 76591,
+          "ext": "jpeg",
+          "file": "page_07_img_03_xref48.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 49,
+          "width": 2684,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 34675,
+          "ext": "jpeg",
+          "file": "page_07_img_04_xref49.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_07.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 865929
+      },
+      "native_text_file": "page_07_native.txt",
+      "image_rects": [
+        {
+          "xref": 46,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 47,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 48,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 49,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 53,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 114167,
+          "ext": "jpeg",
+          "file": "page_08_img_01_xref53.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 54,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 251943,
+          "ext": "jpeg",
+          "file": "page_08_img_02_xref54.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 55,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 224108,
+          "ext": "jpeg",
+          "file": "page_08_img_03_xref55.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 56,
+          "width": 2680,
+          "height": 351,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 88565,
+          "ext": "jpeg",
+          "file": "page_08_img_04_xref56.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_08.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1739388
+      },
+      "native_text_file": "page_08_native.txt",
+      "image_rects": [
+        {
+          "xref": 53,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.6800079345703
+          ]
+        },
+        {
+          "xref": 54,
+          "rect": [
+            0.0,
+            160.6800079345703,
+            841.800048828125,
+            321.3600158691406
+          ]
+        },
+        {
+          "xref": 55,
+          "rect": [
+            0.0,
+            321.36004638671875,
+            841.800048828125,
+            482.0400390625
+          ]
+        },
+        {
+          "xref": 56,
+          "rect": [
+            0.0,
+            482.0399475097656,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 60,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 140692,
+          "ext": "jpeg",
+          "file": "page_09_img_01_xref60.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 61,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 135766,
+          "ext": "jpeg",
+          "file": "page_09_img_02_xref61.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 62,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 204355,
+          "ext": "jpeg",
+          "file": "page_09_img_03_xref62.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 63,
+          "width": 2680,
+          "height": 351,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 57522,
+          "ext": "jpeg",
+          "file": "page_09_img_04_xref63.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_09.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1572260
+      },
+      "native_text_file": "page_09_native.txt",
+      "image_rects": [
+        {
+          "xref": 60,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.6800079345703
+          ]
+        },
+        {
+          "xref": 61,
+          "rect": [
+            0.0,
+            160.6800079345703,
+            841.800048828125,
+            321.3600158691406
+          ]
+        },
+        {
+          "xref": 62,
+          "rect": [
+            0.0,
+            321.36004638671875,
+            841.800048828125,
+            482.0400390625
+          ]
+        },
+        {
+          "xref": 63,
+          "rect": [
+            0.0,
+            482.0399475097656,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 67,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 151411,
+          "ext": "jpeg",
+          "file": "page_10_img_01_xref67.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 68,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 205163,
+          "ext": "jpeg",
+          "file": "page_10_img_02_xref68.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 69,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 167352,
+          "ext": "jpeg",
+          "file": "page_10_img_03_xref69.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 70,
+          "width": 2684,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 88411,
+          "ext": "jpeg",
+          "file": "page_10_img_04_xref70.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_10.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1963234
+      },
+      "native_text_file": "page_10_native.txt",
+      "image_rects": [
+        {
+          "xref": 67,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 68,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 69,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 70,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 74,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 175170,
+          "ext": "jpeg",
+          "file": "page_11_img_01_xref74.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 75,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 220594,
+          "ext": "jpeg",
+          "file": "page_11_img_02_xref75.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 76,
+          "width": 2684,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 173642,
+          "ext": "jpeg",
+          "file": "page_11_img_03_xref76.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 77,
+          "width": 2684,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 53671,
+          "ext": "jpeg",
+          "file": "page_11_img_04_xref77.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_11.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1075043
+      },
+      "native_text_file": "page_11_native.txt",
+      "image_rects": [
+        {
+          "xref": 74,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 75,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 76,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 77,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 81,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 133442,
+          "ext": "jpeg",
+          "file": "page_12_img_01_xref81.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 82,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 145603,
+          "ext": "jpeg",
+          "file": "page_12_img_02_xref82.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 83,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 121029,
+          "ext": "jpeg",
+          "file": "page_12_img_03_xref83.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 84,
+          "width": 2680,
+          "height": 351,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 62821,
+          "ext": "jpeg",
+          "file": "page_12_img_04_xref84.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_12.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1178729
+      },
+      "native_text_file": "page_12_native.txt",
+      "image_rects": [
+        {
+          "xref": 81,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.6800079345703
+          ]
+        },
+        {
+          "xref": 82,
+          "rect": [
+            0.0,
+            160.6800079345703,
+            841.800048828125,
+            321.3600158691406
+          ]
+        },
+        {
+          "xref": 83,
+          "rect": [
+            0.0,
+            321.36004638671875,
+            841.800048828125,
+            482.0400390625
+          ]
+        },
+        {
+          "xref": 84,
+          "rect": [
+            0.0,
+            482.0399475097656,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 88,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 175479,
+          "ext": "jpeg",
+          "file": "page_13_img_01_xref88.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 89,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 216405,
+          "ext": "jpeg",
+          "file": "page_13_img_02_xref89.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 90,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 165681,
+          "ext": "jpeg",
+          "file": "page_13_img_03_xref90.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 91,
+          "width": 2680,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 48959,
+          "ext": "jpeg",
+          "file": "page_13_img_04_xref91.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_13.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 971370
+      },
+      "native_text_file": "page_13_native.txt",
+      "image_rects": [
+        {
+          "xref": 88,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 89,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 90,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 91,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 95,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 126657,
+          "ext": "jpeg",
+          "file": "page_14_img_01_xref95.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 96,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 146846,
+          "ext": "jpeg",
+          "file": "page_14_img_02_xref96.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 97,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 121213,
+          "ext": "jpeg",
+          "file": "page_14_img_03_xref97.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 98,
+          "width": 2681,
+          "height": 353,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 55714,
+          "ext": "jpeg",
+          "file": "page_14_img_04_xref98.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_14.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1279197
+      },
+      "native_text_file": "page_14_native.txt",
+      "image_rects": [
+        {
+          "xref": 95,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.55999755859375
+          ]
+        },
+        {
+          "xref": 96,
+          "rect": [
+            0.0,
+            160.55999755859375,
+            841.800048828125,
+            321.1199951171875
+          ]
+        },
+        {
+          "xref": 97,
+          "rect": [
+            0.0,
+            321.1199951171875,
+            841.800048828125,
+            481.67999267578125
+          ]
+        },
+        {
+          "xref": 98,
+          "rect": [
+            0.0,
+            481.679931640625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 102,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 198737,
+          "ext": "jpeg",
+          "file": "page_15_img_01_xref102.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 103,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 237842,
+          "ext": "jpeg",
+          "file": "page_15_img_02_xref103.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 104,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 143083,
+          "ext": "jpeg",
+          "file": "page_15_img_03_xref104.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 105,
+          "width": 2681,
+          "height": 345,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 42602,
+          "ext": "jpeg",
+          "file": "page_15_img_04_xref105.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_15.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 937312
+      },
+      "native_text_file": "page_15_native.txt",
+      "image_rects": [
+        {
+          "xref": 102,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            161.27999877929688
+          ]
+        },
+        {
+          "xref": 103,
+          "rect": [
+            0.0,
+            161.27999877929688,
+            841.800048828125,
+            322.55999755859375
+          ]
+        },
+        {
+          "xref": 104,
+          "rect": [
+            0.0,
+            322.55999755859375,
+            841.800048828125,
+            483.8399963378906
+          ]
+        },
+        {
+          "xref": 105,
+          "rect": [
+            0.0,
+            483.8399658203125,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 109,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 96050,
+          "ext": "jpeg",
+          "file": "page_16_img_01_xref109.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 110,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 162420,
+          "ext": "jpeg",
+          "file": "page_16_img_02_xref110.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 111,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 111239,
+          "ext": "jpeg",
+          "file": "page_16_img_03_xref111.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 112,
+          "width": 2681,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 42231,
+          "ext": "jpeg",
+          "file": "page_16_img_04_xref112.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_16.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 808405
+      },
+      "native_text_file": "page_16_native.txt",
+      "image_rects": [
+        {
+          "xref": 109,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 110,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 111,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 112,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 116,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 133070,
+          "ext": "jpeg",
+          "file": "page_17_img_01_xref116.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 117,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 153255,
+          "ext": "jpeg",
+          "file": "page_17_img_02_xref117.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 118,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 129405,
+          "ext": "jpeg",
+          "file": "page_17_img_03_xref118.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 119,
+          "width": 2681,
+          "height": 355,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 48316,
+          "ext": "jpeg",
+          "file": "page_17_img_04_xref119.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_17.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 727189
+      },
+      "native_text_file": "page_17_native.txt",
+      "image_rects": [
+        {
+          "xref": 116,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 117,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 118,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 119,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 123,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 129799,
+          "ext": "jpeg",
+          "file": "page_18_img_01_xref123.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 124,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 181143,
+          "ext": "jpeg",
+          "file": "page_18_img_02_xref124.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 125,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 168363,
+          "ext": "jpeg",
+          "file": "page_18_img_03_xref125.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 126,
+          "width": 2681,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 89099,
+          "ext": "jpeg",
+          "file": "page_18_img_04_xref126.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_18.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1022287
+      },
+      "native_text_file": "page_18_native.txt",
+      "image_rects": [
+        {
+          "xref": 123,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 124,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 125,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 126,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 130,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 148005,
+          "ext": "jpeg",
+          "file": "page_19_img_01_xref130.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 131,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 187033,
+          "ext": "jpeg",
+          "file": "page_19_img_02_xref131.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 132,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 146628,
+          "ext": "jpeg",
+          "file": "page_19_img_03_xref132.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 133,
+          "width": 2681,
+          "height": 345,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 45680,
+          "ext": "jpeg",
+          "file": "page_19_img_04_xref133.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_19.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 809264
+      },
+      "native_text_file": "page_19_native.txt",
+      "image_rects": [
+        {
+          "xref": 130,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            161.27999877929688
+          ]
+        },
+        {
+          "xref": 131,
+          "rect": [
+            0.0,
+            161.27999877929688,
+            841.800048828125,
+            322.55999755859375
+          ]
+        },
+        {
+          "xref": 132,
+          "rect": [
+            0.0,
+            322.55999755859375,
+            841.800048828125,
+            483.8399963378906
+          ]
+        },
+        {
+          "xref": 133,
+          "rect": [
+            0.0,
+            483.8399658203125,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 137,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 142516,
+          "ext": "jpeg",
+          "file": "page_20_img_01_xref137.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 138,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 237714,
+          "ext": "jpeg",
+          "file": "page_20_img_02_xref138.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 139,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 200751,
+          "ext": "jpeg",
+          "file": "page_20_img_03_xref139.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 140,
+          "width": 2681,
+          "height": 353,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 77314,
+          "ext": "jpeg",
+          "file": "page_20_img_04_xref140.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_20.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1759991
+      },
+      "native_text_file": "page_20_native.txt",
+      "image_rects": [
+        {
+          "xref": 137,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.55999755859375
+          ]
+        },
+        {
+          "xref": 138,
+          "rect": [
+            0.0,
+            160.55999755859375,
+            841.800048828125,
+            321.1199951171875
+          ]
+        },
+        {
+          "xref": 139,
+          "rect": [
+            0.0,
+            321.1199951171875,
+            841.800048828125,
+            481.67999267578125
+          ]
+        },
+        {
+          "xref": 140,
+          "rect": [
+            0.0,
+            481.679931640625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 144,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 190280,
+          "ext": "jpeg",
+          "file": "page_21_img_01_xref144.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 145,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 241901,
+          "ext": "jpeg",
+          "file": "page_21_img_02_xref145.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 146,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 167823,
+          "ext": "jpeg",
+          "file": "page_21_img_03_xref146.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 147,
+          "width": 2681,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 38766,
+          "ext": "jpeg",
+          "file": "page_21_img_04_xref147.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_21.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 881244
+      },
+      "native_text_file": "page_21_native.txt",
+      "image_rects": [
+        {
+          "xref": 144,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 145,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 146,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 147,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 151,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 121459,
+          "ext": "jpeg",
+          "file": "page_22_img_01_xref151.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 152,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 129978,
+          "ext": "jpeg",
+          "file": "page_22_img_02_xref152.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 153,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 103362,
+          "ext": "jpeg",
+          "file": "page_22_img_03_xref153.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 154,
+          "width": 2681,
+          "height": 356,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 33178,
+          "ext": "jpeg",
+          "file": "page_22_img_04_xref154.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_22.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 828799
+      },
+      "native_text_file": "page_22_native.txt",
+      "image_rects": [
+        {
+          "xref": 151,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 152,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 153,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 154,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 158,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 130306,
+          "ext": "jpeg",
+          "file": "page_23_img_01_xref158.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 159,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 87505,
+          "ext": "jpeg",
+          "file": "page_23_img_02_xref159.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 160,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 168360,
+          "ext": "jpeg",
+          "file": "page_23_img_03_xref160.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 161,
+          "width": 2681,
+          "height": 353,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 38527,
+          "ext": "jpeg",
+          "file": "page_23_img_04_xref161.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_23.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 958844
+      },
+      "native_text_file": "page_23_native.txt",
+      "image_rects": [
+        {
+          "xref": 158,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.55999755859375
+          ]
+        },
+        {
+          "xref": 159,
+          "rect": [
+            0.0,
+            160.55999755859375,
+            841.800048828125,
+            321.1199951171875
+          ]
+        },
+        {
+          "xref": 160,
+          "rect": [
+            0.0,
+            321.1199951171875,
+            841.800048828125,
+            481.67999267578125
+          ]
+        },
+        {
+          "xref": 161,
+          "rect": [
+            0.0,
+            481.679931640625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 165,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 105230,
+          "ext": "jpeg",
+          "file": "page_24_img_01_xref165.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 166,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 74456,
+          "ext": "jpeg",
+          "file": "page_24_img_02_xref166.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 167,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 127390,
+          "ext": "jpeg",
+          "file": "page_24_img_03_xref167.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 168,
+          "width": 2681,
+          "height": 360,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 66236,
+          "ext": "jpeg",
+          "file": "page_24_img_04_xref168.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_24.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 671528
+      },
+      "native_text_file": "page_24_native.txt",
+      "image_rects": [
+        {
+          "xref": 165,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            159.95999145507812
+          ]
+        },
+        {
+          "xref": 166,
+          "rect": [
+            0.0,
+            159.95999145507812,
+            841.800048828125,
+            319.91998291015625
+          ]
+        },
+        {
+          "xref": 167,
+          "rect": [
+            0.0,
+            319.91998291015625,
+            841.800048828125,
+            479.8799743652344
+          ]
+        },
+        {
+          "xref": 168,
+          "rect": [
+            0.0,
+            479.8800048828125,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 172,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 72442,
+          "ext": "jpeg",
+          "file": "page_25_img_01_xref172.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 173,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 84273,
+          "ext": "jpeg",
+          "file": "page_25_img_02_xref173.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 174,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 83136,
+          "ext": "jpeg",
+          "file": "page_25_img_03_xref174.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 175,
+          "width": 2681,
+          "height": 356,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 36246,
+          "ext": "jpeg",
+          "file": "page_25_img_04_xref175.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_25.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 389136
+      },
+      "native_text_file": "page_25_native.txt",
+      "image_rects": [
+        {
+          "xref": 172,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 173,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 174,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 175,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 179,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 122246,
+          "ext": "jpeg",
+          "file": "page_26_img_01_xref179.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 180,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 190149,
+          "ext": "jpeg",
+          "file": "page_26_img_02_xref180.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 181,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 196205,
+          "ext": "jpeg",
+          "file": "page_26_img_03_xref181.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 182,
+          "width": 2681,
+          "height": 354,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 72893,
+          "ext": "jpeg",
+          "file": "page_26_img_04_xref182.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_26.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1412965
+      },
+      "native_text_file": "page_26_native.txt",
+      "image_rects": [
+        {
+          "xref": 179,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.44000244140625
+          ]
+        },
+        {
+          "xref": 180,
+          "rect": [
+            0.0,
+            160.44000244140625,
+            841.800048828125,
+            320.8800048828125
+          ]
+        },
+        {
+          "xref": 181,
+          "rect": [
+            0.0,
+            320.8800048828125,
+            841.800048828125,
+            481.32000732421875
+          ]
+        },
+        {
+          "xref": 182,
+          "rect": [
+            0.0,
+            481.3199462890625,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 186,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 270058,
+          "ext": "jpeg",
+          "file": "page_27_img_01_xref186.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 187,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 359320,
+          "ext": "jpeg",
+          "file": "page_27_img_02_xref187.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 188,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 321909,
+          "ext": "jpeg",
+          "file": "page_27_img_03_xref188.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 189,
+          "width": 2681,
+          "height": 357,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 68575,
+          "ext": "jpeg",
+          "file": "page_27_img_04_xref189.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_27.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 2687121
+      },
+      "native_text_file": "page_27_native.txt",
+      "image_rects": [
+        {
+          "xref": 186,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.20001220703125
+          ]
+        },
+        {
+          "xref": 187,
+          "rect": [
+            0.0,
+            160.20001220703125,
+            841.800048828125,
+            320.4000244140625
+          ]
+        },
+        {
+          "xref": 188,
+          "rect": [
+            0.0,
+            320.4000244140625,
+            841.800048828125,
+            480.60003662109375
+          ]
+        },
+        {
+          "xref": 189,
+          "rect": [
+            0.0,
+            480.5999450683594,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 193,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 104270,
+          "ext": "jpeg",
+          "file": "page_28_img_01_xref193.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 194,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 146875,
+          "ext": "jpeg",
+          "file": "page_28_img_02_xref194.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 195,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 132697,
+          "ext": "jpeg",
+          "file": "page_28_img_03_xref195.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 196,
+          "width": 2681,
+          "height": 364,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 89912,
+          "ext": "jpeg",
+          "file": "page_28_img_04_xref196.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_28.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 941163
+      },
+      "native_text_file": "page_28_native.txt",
+      "image_rects": [
+        {
+          "xref": 193,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            159.60000610351562
+          ]
+        },
+        {
+          "xref": 194,
+          "rect": [
+            0.0,
+            159.60000610351562,
+            841.800048828125,
+            319.20001220703125
+          ]
+        },
+        {
+          "xref": 195,
+          "rect": [
+            0.0,
+            319.20001220703125,
+            841.800048828125,
+            478.8000183105469
+          ]
+        },
+        {
+          "xref": 196,
+          "rect": [
+            0.0,
+            478.8000183105469,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 200,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 181527,
+          "ext": "jpeg",
+          "file": "page_29_img_01_xref200.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 201,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 208974,
+          "ext": "jpeg",
+          "file": "page_29_img_02_xref201.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 202,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 199159,
+          "ext": "jpeg",
+          "file": "page_29_img_03_xref202.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 203,
+          "width": 2681,
+          "height": 355,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 82177,
+          "ext": "jpeg",
+          "file": "page_29_img_04_xref203.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_29.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 913731
+      },
+      "native_text_file": "page_29_native.txt",
+      "image_rects": [
+        {
+          "xref": 200,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 201,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 202,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 203,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 207,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 95760,
+          "ext": "jpeg",
+          "file": "page_30_img_01_xref207.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 208,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 107567,
+          "ext": "jpeg",
+          "file": "page_30_img_02_xref208.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 209,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 71256,
+          "ext": "jpeg",
+          "file": "page_30_img_03_xref209.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 210,
+          "width": 2681,
+          "height": 359,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 48022,
+          "ext": "jpeg",
+          "file": "page_30_img_04_xref210.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_30.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 559251
+      },
+      "native_text_file": "page_30_native.txt",
+      "image_rects": [
+        {
+          "xref": 207,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.0800018310547
+          ]
+        },
+        {
+          "xref": 208,
+          "rect": [
+            0.0,
+            160.0800018310547,
+            841.800048828125,
+            320.1600036621094
+          ]
+        },
+        {
+          "xref": 209,
+          "rect": [
+            0.0,
+            320.15997314453125,
+            841.800048828125,
+            480.239990234375
+          ]
+        },
+        {
+          "xref": 210,
+          "rect": [
+            0.0,
+            480.2399597167969,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 214,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 94210,
+          "ext": "jpeg",
+          "file": "page_31_img_01_xref214.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 215,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 89152,
+          "ext": "jpeg",
+          "file": "page_31_img_02_xref215.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 216,
+          "width": 2681,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 201575,
+          "ext": "jpeg",
+          "file": "page_31_img_03_xref216.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 217,
+          "width": 2681,
+          "height": 348,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 75118,
+          "ext": "jpeg",
+          "file": "page_31_img_04_xref217.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_31.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 1313748
+      },
+      "native_text_file": "page_31_native.txt",
+      "image_rects": [
+        {
+          "xref": 214,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.9199981689453
+          ]
+        },
+        {
+          "xref": 215,
+          "rect": [
+            0.0,
+            160.9199981689453,
+            841.800048828125,
+            321.8399963378906
+          ]
+        },
+        {
+          "xref": 216,
+          "rect": [
+            0.0,
+            321.84002685546875,
+            841.800048828125,
+            482.760009765625
+          ]
+        },
+        {
+          "xref": 217,
+          "rect": [
+            0.0,
+            482.75994873046875,
+            841.800048828125,
+            595.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "size": {
+        "width": 841.5,
+        "height": 594.75
+      },
+      "native_text_len": 0,
+      "images": [
+        {
+          "index": 1,
+          "xref": 221,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image1",
+          "filter": "DCTDecode",
+          "bytes": 62331,
+          "ext": "jpeg",
+          "file": "page_32_img_01_xref221.jpeg"
+        },
+        {
+          "index": 2,
+          "xref": 222,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image2",
+          "filter": "DCTDecode",
+          "bytes": 61803,
+          "ext": "jpeg",
+          "file": "page_32_img_02_xref222.jpeg"
+        },
+        {
+          "index": 3,
+          "xref": 223,
+          "width": 2680,
+          "height": 500,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image3",
+          "filter": "DCTDecode",
+          "bytes": 71816,
+          "ext": "jpeg",
+          "file": "page_32_img_03_xref223.jpeg"
+        },
+        {
+          "index": 4,
+          "xref": 224,
+          "width": 2680,
+          "height": 355,
+          "bpc": 8,
+          "colorspace": "DeviceRGB",
+          "name": "Image4",
+          "filter": "DCTDecode",
+          "bytes": 84388,
+          "ext": "jpeg",
+          "file": "page_32_img_04_xref224.jpeg"
+        }
+      ],
+      "render": {
+        "file": "page_32.png",
+        "width": 1754,
+        "height": 1240,
+        "dpi": 150,
+        "bytes": 511529
+      },
+      "native_text_file": "page_32_native.txt",
+      "image_rects": [
+        {
+          "xref": 221,
+          "rect": [
+            0.0,
+            0.0,
+            841.800048828125,
+            160.3199920654297
+          ]
+        },
+        {
+          "xref": 222,
+          "rect": [
+            0.0,
+            160.3199920654297,
+            841.800048828125,
+            320.6399841308594
+          ]
+        },
+        {
+          "xref": 223,
+          "rect": [
+            0.0,
+            320.63995361328125,
+            841.800048828125,
+            480.9599609375
+          ]
+        },
+        {
+          "xref": 224,
+          "rect": [
+            0.0,
+            480.96002197265625,
+            841.800048828125,
+            595.2000122070312
+          ]
+        }
+      ]
+    }
+  ],
+  "unique_images_extracted": 128
+}
